@@ -71,7 +71,7 @@
       <div class="content">
         <div class="column col-left reveal">
           <h2 class="content-title">My Skills and Experiences</h2>
-          <p>I am fresher in the industry but I think I can quickly adapt to the industrial culture. I have skills should web developers have. also, i have experience with web development projects.also i have skils to devolope mobile application.i am familiar with java,c language, and MySQL.</p>
+          <p>I'm a fresher in the industry. But I'm pretty sure that I can quickly be adapted to the industrial culture. I have worked with web and mobile applications development. I'm familiar with Java, C language and MySQL</p>
           <a href="#" class="btn">See More</a>
         </div>
         <div class="column col-right reveal">
