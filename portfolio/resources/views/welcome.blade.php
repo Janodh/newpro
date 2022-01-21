@@ -165,7 +165,7 @@ am well organized and always plan ahead to make sure. I manage my time well and 
           </div>
         </div>
           <div class="card reveal" >
-            <img class="card-img-top" src="{{asset('images/work3.jpg')}}" alt="">
+            <img class="card-img-top" src="{{asset('images/work4.jpg')}}" alt="">
               <div class="card-body">
                 <h4 class="card-title">School Database Management System</h4>
                 <p class="card-text">Use technologie - C#, MS SQL Server</p>
@@ -173,7 +173,7 @@ am well organized and always plan ahead to make sure. I manage my time well and 
               </div>
             </div>
               <div class="card reveal" >
-                <img class="card-img-top" src="{{asset('images/work4.jpg')}}" alt="">
+                <img class="card-img-top" src="{{asset('images/work3.jpg')}}" alt="">
                   <div class="card-body">
                     <h4 class="card-title">Pill Reminder App-(Mediclock)</h4>
                     <p class="card-text">Use technologie- flutter,Dart,firestore</p>
